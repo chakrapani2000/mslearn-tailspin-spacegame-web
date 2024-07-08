@@ -2,7 +2,6 @@ trigger:
   - main
  
 pool:
-  name: MyAgentPool
   vmImage: 'windows-2022'
  
 variables:
